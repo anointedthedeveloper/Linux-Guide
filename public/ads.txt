@@ -1,0 +1,83 @@
+# ads.txt file for Linux Helper
+# This file contains the authorized digital sellers for Linux Helper
+# Generated: January 2026
+# Purpose: Ad transparency and fraud prevention
+
+# Google AdSense
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# Google AdExchange
+google.com, pub-0000000000000000, RESELLER, f08c47fec0942fa0
+
+# OpenX
+openx.com, 537122949, RESELLER, 6a698e2ec38604c6
+
+# Rubicon Project
+rubiconproject.com, 19205, RESELLER, 0bab66b4632ef76e
+
+# Criteo
+criteo.com, B-065949, RESELLER, b92d6b9becc2d7a4
+
+# Undertone
+undertone.com, 3401, RESELLER
+
+# SpotX
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34
+
+# AppNexus
+appnexus.com, 9500, RESELLER, f5ab79cb980f11d1
+
+# YuktaMedia
+yuktamedia.com, 2147483647, RESELLER, bde52cb31291d7c9
+
+# PubMatic
+pubmatic.com, 154975, RESELLER, 3fd707be9c4b07c3
+
+# Sovrn
+sovrn.com, 3723, RESELLER, fafdf38b16bf6b2b
+
+# Conversant/ValueClick
+conversantmedia.com, 100062, RESELLER, 03113cd4da6174d4
+
+# Centro
+centro.net, 99887, RESELLER, d4c29acad76ce94f
+
+# GumGum
+gumgum.com, 11645, RESELLER, ffac2270cf0992fa
+
+# SilverMob
+silvermob.com, 195, RESELLER, d4c29acad76ce94f
+
+# SmartyAds
+smartyads.com, 1465, RESELLER
+
+# Smardsp
+smardsp.com, 3332, RESELLER
+
+# Nobid
+nobid.io, 20644, RESELLER
+
+# LoopMe
+loopme.com, 5679, RESELLER, 6c8d5f95897a47fb
+
+# Smaato
+smaato.com, 1100047719, RESELLER, 07226cba220ae6fb
+
+# Magnite
+magnite.com, 2626, RESELLER, 0241854c7e44ea86
+
+# Xandr
+xandr.com, 13515, RESELLER
+
+# Telaria
+telaria.com, rwd-publisher-85d1b71b, RESELLER
+
+# Verizon Media/Yahoo
+verizonmedia.com, 0x0000000000000000, RESELLER, e1a5b7453e60dd42
+
+# Notes:
+# - Replace pub-0000000000000000 with actual Google AdSense publisher ID
+# - This file should be placed in the root directory of your domain
+# - URL: https://linuxhelper.dev/ads.txt
+# - Update this file regularly as partnerships change
+# - More information: https://iabtechlab.com/ads-txt/
