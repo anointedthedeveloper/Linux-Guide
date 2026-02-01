@@ -48,12 +48,12 @@ export default function RootLayout({
         {/* Google AdSense Script */}
         <Script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1727042318749362"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
-        {/* Meta Pixel for Ad Optimization */}
-        <meta name="google-site-verification" content="" />
+        {/* Google AdSense Account Meta */}
+        <meta name="google-adsense-account" content="ca-pub-1727042318749362" />
       </head>
       <body className={`font-sans antialiased`}>
         {children}
